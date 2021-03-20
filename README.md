@@ -12,9 +12,9 @@ ____________________________
 
 ## **Languages and Technologies**
 
-<img src="https://cdn.auth0.com/blog/react-js/react.png" height='12px' width='12px' > [React](https://pt-br.reactjs.org)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height='12px' width='12px'> Javascript ES6
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height='12px' width='12px'> [Javascript ES6]()
+<img src="https://cdn.auth0.com/blog/react-js/react.png" height='12px' width='12px' > [React](https://pt-br.reactjs.org)
 <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png" height='12px' width='12px'> [Laravel](https://laravel.com)
 <br/>
