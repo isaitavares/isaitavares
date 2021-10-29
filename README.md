@@ -1,5 +1,3 @@
- # **Isaí Tavares** 👾
-
 ## *Full Stack/Front_End Developer*
 ______________
 ## **Currently Working**
