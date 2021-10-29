@@ -4,8 +4,7 @@
 ______________
 ## **Currently Working**
 
-### Front_end Developer at [Busca Breja](https://www.facebook.com/buscabrejaOficial)
-### Back_end Intern at [BeMobile](https://www.facebook.com/bemobile.tech)
+### Front_end Developer at [Cigam Gestor S.A](https://www.instagram.com/erpcigam/)
 
 
 ____________________________
