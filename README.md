@@ -20,7 +20,7 @@ ____________________________
 
 ## **Socials**
 
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height='12px' width='12px'> [Linkedin](https://www.linkedin.com/in/isaí-tavares-vieira-86aa331b3/) 
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height='12px' width='12px'> [Linkedin](https://www.linkedin.com/in/isai-tavares/) 
 <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/900px-Facebook_logo_%28square%29.png" height='12px' width='12px'> [Facebook](https://www.facebook.com/Izzyvieira97/)
 _________
