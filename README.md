@@ -1,4 +1,4 @@
-## *Full Stack/Front_End Developer*
+## *Front_End Developer*
 ______________
 ## **Currently Working as**
 
