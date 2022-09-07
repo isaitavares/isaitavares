@@ -1,6 +1,6 @@
 ## *Full Stack/Front_End Developer*
 ______________
-## **Currently Working at**
+## **Currently Working as**
 
 ### Front_end Developer at [TrueChange](https://www.instagram.com/somostruechange/)
 
